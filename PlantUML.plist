@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+	BBEdit codeless language module for PlantUML source.
+	Nigel Stanger
+	Version 1.0, 2017-11-036
+
+	Released under a Creative Commons Attribution-ShareAlike 4.0 International License:
+	<http://creativecommons.org/licenses/by-sa/4.0/>
+	
+	Requires BBEdit 8.0 or higher. To install, copy here:
+	
+		~/Library/Application Support/BBEdit/Language Modules/
+	
+	and relaunch BBEdit.
+-->
+</plist>
