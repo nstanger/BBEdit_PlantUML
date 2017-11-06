@@ -737,7 +737,7 @@
 	<key>BBLMLanguageCode</key>
 	<string>PUML</string>
 	<key>BBLMLanguageDisplayName</key>
-	<string>PlantUML diagram</string>
+	<string>PlantUML</string>
 	<key>BBLMScansFunctions</key>
 	<false/>
 
