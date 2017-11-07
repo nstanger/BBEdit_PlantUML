@@ -92,7 +92,6 @@
 		<string>stop</string>
 		<string>title</string>
 		<string>top</string>
-		<string>top to bottom direction</string>
 		<string>up</string>
 		<string>while</string>
 		
@@ -138,6 +137,76 @@
 		<string>!include</string>
 		<string>!pragma</string>
 		<string>!undef</string>
+		
+		<!-- miscellaneous terms missing from java -jar plantuml.jar -language (often type-specific) -->
+		<string>[hidden]</string>
+		<string>[norank]</string>
+		<string>{abstract}</string>
+		<string>{classifer}</string>
+		<string>{field}</string>
+		<string>{method}</string>
+		<string>{static}</string>
+		<string>@endlatex</string>
+		<string>@endmath</string>
+		<string>@startlatex</string>
+		<string>@startmath</string>
+		<string>activity</string>
+		<string>attributes</string>
+		<string>circle</string>
+		<string>colors</string>
+		<string>detach</string>
+		<string>direction</string>
+		<string>empty</string>
+		<string>endheader</string>
+		<string>endlegend</string>
+		<string>endtitle</string>
+		<string>fields</string>
+		<string>floating</string>
+		<string>listopeniconic</string>
+		<string>listsprite</string>
+		<string>members</string>
+		<string>repeatwhile</string>
+		<string>resume</string>
+		<string>salt</string>
+		<string>scale</string>
+		<string>sprite</string>
+		<string>stereotype</string>
+		<string>then</string>
+		<string>to</string>
+		<string>together</string>
+		
+		<!-- experimental Gantt chart syntax -->
+		<string>@endgantt</string>
+		<string>@startgantt</string>
+		<string>after</string>
+		<string>and</string>
+		<string>april</string>
+		<string>at</string>
+		<string>august</string>
+		<string>before</string>
+		<string>colored</string>
+		<string>day</string>
+		<string>days</string>
+		<string>december</string>
+		<string>february</string>
+		<string>happens</string>
+		<string>in</string>
+		<string>january</string>
+		<string>july</string>
+		<string>june</string>
+		<string>lasts</string>
+		<string>march</string>
+		<string>may</string>
+		<string>november</string>
+		<string>october</string>
+		<string>september</string>
+		<string>starts</string>
+		<string>the</string>
+		
+		<!-- experimental timing diagram syntax -->
+		<string>concise</string>
+		<string>pixels</string>
+		<string>robust</string>
 		
 		<!-- skin parameters -->
 		<string>ActivityBackgroundColor</string>
@@ -732,6 +801,10 @@
 		<string>%date%</string>
 		<string>%dirpath%</string>
 		<string>%filename%</string>
+		<string>false</string>
+		<string>octagon</string>
+		<string>true</string>
+		<string>uml2</string>
 	</array>
 	
 	<key>BBLMLanguageCode</key>
@@ -764,6 +837,8 @@
 	<key>BBLMSupportsTextCompletion</key>
 	<true/>
 	
+	<key>BBLMCommentLineDefault</key>
+	<string>' </string>
 
 	<key>Language Features</key>
 	<dict>
